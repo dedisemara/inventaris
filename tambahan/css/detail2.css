@@ -1,0 +1,40 @@
+#los {
+	margin-top: 60px;
+}
+.input-icon input {
+	display: none;
+}
+
+#icon1 {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.setLebar {
+	max-width: 100px;
+}
+
+.concat div {
+	overflow: hidden;
+	-ms-text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	width: inherit;
+}
+
+.fc {
+	color: black;
+}
+
+@media (max-width: 600px) {
+	body {
+		font-size: 11px;
+	}
+	h5 {
+		font-size: 14px;
+	}
+	h6 {
+		font-size: 13px;
+	}
+}
